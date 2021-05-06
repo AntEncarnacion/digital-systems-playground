@@ -1,24 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: Polytechnic University of Puerto Rico
--- Engineer: Othoniel Rodriguez Jimenez
--- 
--- Create Date: 03/12/2020 06:24:38 PM
--- Design Name: Behavioral Design for Garage Door Controller
--- Module Name: DoorControllerModel - Behavioral
--- Project Name: GarageDoorController
--- Target Devices: Spartan 7000 inside an Arty S7 board
--- Tool Versions: Vivado 2017.4
--- Description: the garage door controller will be implemented as a Finite State Machine 
--- thus it will not have a Data Path for storing, moving, or processing data.
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
-
-
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 

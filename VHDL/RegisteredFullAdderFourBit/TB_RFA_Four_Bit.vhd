@@ -1,22 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: COE3302-20
--- Engineer: Anthony Y. Encarnacion Torres
--- 
--- Create Date: 04/19/2021 07:20:27 PM
--- Design Name: Testbench Registered Full Adder Four Bit
--- Module Name: TB_RFA_Four_Bit - Behavioral
--- Project Name: 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 USE IEEE.STD_LOGIC_ARITH.ALL;

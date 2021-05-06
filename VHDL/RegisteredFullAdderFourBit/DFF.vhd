@@ -1,22 +1,3 @@
-----------------------------------------------------------------------------------
--- Company: COE 3302-20
--- Engineer: Anthony Y. Encarnacion Torres
--- Student Number: 113862
--- Create Date: 03/24/2021 12:08:08 PM
--- Design Name: 
--- Module Name: FF_Model - Eqn
--- Project Name: 4-Bit Registered Full Adder 
--- Target Devices: 
--- Tool Versions: 
--- Description: 
--- 
--- Dependencies: 
--- 
--- Revision:
--- Revision 0.01 - File Created
--- Additional Comments:
--- 
-----------------------------------------------------------------------------------
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 -- These two dashes mean that what follows is a comment
